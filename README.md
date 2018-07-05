@@ -1,2 +1,1 @@
-
-Worked with some Machine Learning algorithms, each algorithm consists of basic description about the code and the problem that it is working on.
+Machine Learning algorithms on real world Datasets, each folder consist of different algorithms along with basic description about the Dataset problem and solution.
