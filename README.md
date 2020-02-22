@@ -3,13 +3,13 @@ Machine Learning algorithms on real world Datasets, each folder consist of diffe
 # Latex - How it works in Jupyter Notebooks
 ## 1 Get your Jupyter Notebooks as Latex output
 ### 1.1 Install Miktex - Download Link: https://miktex.org/download
-     `check if its on path from cmd using: tex version`
+     check if its on path from cmd using: tex version
 
 ### 1.2 Use the code below for a pdf-output with cells
-     `jupyter nbconvert --to pdf latex.ipynb`
+     jupyter nbconvert --to pdf latex.ipynb
 
 ### 1.3 Use the code below for a pdf-output with no cells
-    `jupyter nbconvert --to pdf latex.ipynb --no-input`
+    jupyter nbconvert --to pdf latex.ipynb --no-input
 
 ### 1.4 Using a custom template
 Steps
