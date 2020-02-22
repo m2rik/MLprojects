@@ -15,9 +15,11 @@ Machine Learning algorithms on real world Datasets, each folder consist of diffe
 Steps
   1. Create .tpl file
   2. import in cmd using --template=yourtemplate.tpl
+  
   `jupyter nbconvert --to python 'example.ipynb' --stdout --template=simplepython.tpl`
 
 ### 1.5 Export your template from your ipynb file using:
+  
   `jupyter nbconvert --to pdf --TemplateExporter.exclude_input=True my_notebook.ipynb`
   `jupyter nbconvert --to markdown my_file.ipynb --template="mytemplate.tpl"`
 
