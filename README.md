@@ -1,4 +1,4 @@
-# Machine Learning algorithms on real world Datasets, each folder consist of different algorithms along with basic description about the Dataset problem and solution.
+## Machine Learning algorithms on real world Datasets, each folder consist of different algorithms along with basic description about the Dataset problem and solution.
 
 # Latex - How it works in Jupyter Notebooks
 ## 1 Get your Jupyter Notebooks as Latex output
