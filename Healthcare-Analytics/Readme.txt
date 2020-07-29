@@ -1,1 +1,2 @@
-
+# Problem
+#### The healthcare sector has long been an early adopter of and benefited greatly from technological advances. These days, machine learning plays a key role in many health-related realms, including the development of new medical procedures, the handling of patient data, health camps and records and the treatment of chronic diseases. This weekend we invite you to participate in another Janatahack with the theme of healthcare management analytics. Stay tuned for the problem statement and datasets this Friday and get a chance to work on a real healthcare case study along with 150 AV points at stake.
